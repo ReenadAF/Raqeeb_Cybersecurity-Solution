@@ -2,7 +2,7 @@
 Watchful eyes on your enterprise 🔐👁️
 
 <p align="center">
- <img src="assets/raqeeb-logo.png" width="120" />
+ <img src="assets/Raqeeb. logo.jpg" width="120" />
 </p>
 
 <h1 align="center">🛡️ Raqeeb</h1>
